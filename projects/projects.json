@@ -1,32 +1,32 @@
 [
   {
-    "name": "Random Password Generator",
-    "desc": "Python script that generates Random Strong passwords using Uppercase letters, Lowercase letters, Numbers & Special Characters",
-    "image": "passgen",
+    "name": "Tourism Website",
+    "desc": "Devised an immersive web experience for users to discover top travel destinations through images, videos, and descriptions.",
+    "image": "website1",
     "category": "python",
     "links": {
-      "view": "https://github.com/liferacer333/random-password-generator",
-      "code": "https://github.com/liferacer333/random-password-generator"
+      "view": "https://rajachanda.ccbp.tech",
+      "code": ""
     }
   },
   {
-    "name": "Port Scanner",
-    "desc": "It Scans for Well-Known Common Ports",
-    "image": "PortScanner",
+    "name": "Food Munch",
+    "desc": "A responsive website that lets you browse through a wide range of food items with ease.",
+    "image": "foodmunch",
     "category": "python",
     "links": {
-      "view": "https://github.com/liferacer333/PortScanner",
-      "code": "https://github.com/liferacer333/PortScanner"
+      "view": "https://raja1foodmunch.ccbp.tech",
+      "code": "#"
     }
   },
   {
-    "name": "Web Scraping",
-    "desc": "Scraping Amazon Product using BeautifulSoup",
-    "image": "webscrap",
+    "name": "Chatbot",
+    "desc": "Developed a mini Chatbot Application which initially wishes user and responds to user if user input matches to list of answers that chat bot maintains.",
+    "image": "chatbot",
     "category": "BeautifulSoup",
     "links": {
-      "view": "https://github.com/liferacer333/amazon_webscrap",
-      "code": "https://github.com/liferacer333/amazon_webscrap"
+      "view": "https://rajachandagenai.ccbp.tech",
+      "code": "#"
     }
   }
 ]
